@@ -47,7 +47,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/AdaCaceresPonce">
+  <a href="[https://www.linkedin.com/in/ada-beatriz-caceres-ponce-041410291/]">
     <img alt="LinkedIn" title="Ada LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <!-- WhatsApp -->
